@@ -1,0 +1,33 @@
+_repo: A-Literary-Pilgrimage-Among-the-Haunts-of-Famous-British-Authors_38890
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 38890-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Wolfe, Theodore F. (Theodore Frelinghuysen)
+    birthdate: 1847
+    deathdate: 1915
+    gutenberg_agent_id: '39700'
+    url: http://www.gutenberg.org/2009/agents/39700
+description: This 1895 volume visits the lesser-known literary haunts of such British
+  writers as Dickens, Chaucer, Pope, Keats, Shakespeare, Carlyle, Byron, Eliot, the
+  Brontés, and many, many more. Locations include places which inspired a particular
+  author as well as spots shared by multiple groups such as Highgate, Lord Byron's
+  tomb, Gray's country churchyard, Gad's Hill, childhood homes, and more.
+gutenberg_issued: '2012-02-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '38890'
+  lccn: '43043006'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, English -- Homes and haunts -- Great Britain'
+- !lcsh 'Literary landmarks -- Great Britain'
+- !lcsh 'Great Britain -- Intellectual life'
+- !lcc 'PR'
+title: A Literary Pilgrimage Among the Haunts of Famous British Authors
+url: http://www.gutenberg.org/ebooks/38890
